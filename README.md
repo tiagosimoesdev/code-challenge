@@ -1,4 +1,4 @@
-#Code Challenge
+# Code Challenge
 
 small web application, displaying all available countries and
 their respective flags in a single page layout. The application should require authentication,
@@ -19,4 +19,4 @@ consist of the following parts:
 
 
 ## Installation
-- Please see the README.md file in the backend and frontend folders for installation instructions
+- Please see the README.md file in the api and client folders for installation instructions
