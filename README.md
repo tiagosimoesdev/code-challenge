@@ -6,7 +6,7 @@ which must be implemented with the third-party provider Auth0 *. The application
 consist of the following parts: 
 
 ## Backend (Laravel)
-- Fetch all countries and their respective flags from the following API: https://restcountries.eu/
+- Fetch all countries and their respective flags from the following API: https://restcountries.com/
 - Easily Replace the API with another one, if needed
 - Cache the API response
 - Dockerized
