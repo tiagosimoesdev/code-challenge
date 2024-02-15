@@ -1,0 +1,21 @@
+includes:
+    - ./vendor/larastan/larastan/extension.neon
+
+parameters:
+    tmpDir: ./
+
+    paths:
+        - app
+
+    level: 6
+
+    excludePaths:
+        - app/Domains/**/Tests/**/*
+
+    ignoreErrors:
+
+    checkMissingIterableValueType: false
+
+    databaseMigrationsPath:
+        - app/Domains/**/Database/Migrations/**/*
+        - database/migrations/**/*
