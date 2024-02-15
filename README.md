@@ -19,4 +19,5 @@ consist of the following parts:
 
 
 ## Installation
+- .env files area hardcoded for convenience
 - Please see the README.md file in the api and client folders for installation instructions
